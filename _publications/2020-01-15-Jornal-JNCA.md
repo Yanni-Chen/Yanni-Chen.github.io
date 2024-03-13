@@ -5,8 +5,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about ****'
 date: 2020-01-15
 venue: 'Journal of Network and Computer Applications'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Yan Chen, Yanjing Sun, Nannan Lu, and Bin Wang. Channel-reserved medium access control for edge computing based IoT. Journal of Network and Computer Applications. vol. 150, 1-11, 2022. doi:[10.1016/j.jnca.2019.102500](https://doi.org/10.1016/j.jnca.2019.102500)'
+paperurl: '[10.1016/j.jnca.2019.102500](https://doi.org/10.1016/j.jnca.2019.102500)'
+citation: 'Yan Chen, Yanjing Sun, Nannan Lu, and Bin Wang. Channel-reserved medium access control for edge computing based IoT. Journal of Network and Computer Applications. vol. 150, 1-11, 2022. doi:'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
