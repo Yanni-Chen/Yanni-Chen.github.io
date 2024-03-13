@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about ****'
 date: 2020-01-15
 venue: 'Journal of Network and Computer Applications'
-paperurl: '[10.1016/j.jnca.2019.102500](https://doi.org/10.1016/j.jnca.2019.102500)'
+paperurl: 'https://doi.org/10.1016/j.jnca.2019.102500'
 citation: 'Yan Chen, Yanjing Sun, Nannan Lu, and Bin Wang. Channel-reserved medium access control for edge computing based IoT. Journal of Network and Computer Applications. vol. 150, 1-11, 2022. doi:'
 ---
 
