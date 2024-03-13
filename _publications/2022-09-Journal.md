@@ -2,7 +2,7 @@
 title: "Dynamic Task Allocation and Service Migration in Edge-Cloud IoT System Based on Deep Reinforcement Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about ***'
 date: 2022-09-15
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
