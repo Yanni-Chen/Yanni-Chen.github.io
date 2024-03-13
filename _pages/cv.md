@@ -64,5 +64,6 @@ Teaching
 Service and leadership
 ======
 ## Reviewer
-* IEEE Transaction on Communications * IEEE Transactions on Mobile Computing
+* IEEE Transaction on Communications
+* IEEE Transactions on Mobile Computing
 
