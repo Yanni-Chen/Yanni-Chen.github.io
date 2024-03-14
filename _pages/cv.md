@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* |Nov. 2022 - Present: Postdoctoral Researcher|Zhejiang Lab, Hang Zhou, Chian|
+* |Nov. 2022 - Present: Postdoctoral Researcher|Zhejiang Lab, Hang Zhou, China|
   |:-----| ----:|
   * Duties include: Updates and improvements to template
   * Supervisor: The Users
@@ -36,17 +36,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Communication and Network
+* Reinforcement Learning
+* Pytorch
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
 ======
-### Jourmal
-  <ul>{% for post in site.publications reversed %}
+## Jourmal
+  <ul>{% for post in site.publications.journal reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Conference
+  <ul>{% for post in site.publications.conference reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
