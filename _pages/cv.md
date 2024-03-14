@@ -19,9 +19,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Nov. 2022 - Present: Postdoctoral Researcher
+  * Zhejiang Lab, Hang Zhou, Chian
+  * Duties include: Updates and improvements to template
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
