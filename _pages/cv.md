@@ -13,7 +13,8 @@ Education
 ======
 * Ph.D., Information and Communication Engineering, China University of Mining and Engineering, Aug. 2018 - Jun. 2022
 * Visiting Ph.D. Student, Aalto University, Dec. 2020 - Dec. 2021 
-* M.E., Information and Communication Engineering, China University of Mining and Engineering, Sept. 2016 - Jul. 2018 (Transferred to Ph.D. in advance)
+* M.E., Information and Communication Engineering, China University of Mining and Engineering, Sept. 2016 - Jul. 2018
+                                                                                    (Transferred to Ph.D. in advance)
 * B.E., Information Engineering, China University of Mining and Engineering, Sept. 2012 - Jun. 2016
 
 Work experience
