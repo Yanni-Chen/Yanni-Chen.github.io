@@ -19,8 +19,8 @@ Education
 
 Work experience
 ======
-* Nov. 2022 - Present: Postdoctoral Researcher
-  * Zhejiang Lab, Hang Zhou, Chian
+* |Nov. 2022 - Present: Postdoctoral Researcher|Zhejiang Lab, Hang Zhou, Chian|
+  |:-----| ----:|
   * Duties include: Updates and improvements to template
   * Supervisor: The Users
 
