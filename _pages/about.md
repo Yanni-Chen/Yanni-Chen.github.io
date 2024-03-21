@@ -17,6 +17,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Recent News
 ======
+1. March 2o24.--- One paper has been accepted by IEEE TNSE.
+2. Januart 2024. Two papers have been accepted by IEEE ICC 2024
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
